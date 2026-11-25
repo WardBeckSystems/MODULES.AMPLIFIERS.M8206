@@ -1,5 +1,5 @@
 # 19xx - M8206 - Matrixing Audio Distribution Amplifier 001.jpg
-Wiki page: [M8206](../../../PAGES/M8206.md)
+Wiki page: [M8206](../../../../PAGES/M8206.md)
 
 
 - **Year:** unknown (unknown)
@@ -31,7 +31,7 @@ WBS WARD-Beck SYSTEMs
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M8206/19xx - M8206 - Matrixing Audio Distribution Amplifier 001.jpg",
+ "file": "Modules/AMPLIFIERS/M8206/PHOTOS/19xx - M8206 - Matrixing Audio Distribution Amplifier 001.jpg",
  "sha256": "ae4d02e61a268979fdb8e6608756b1059e25429973cb9d90b8a1316b267ca85a",
  "kind": "module",
  "models": [

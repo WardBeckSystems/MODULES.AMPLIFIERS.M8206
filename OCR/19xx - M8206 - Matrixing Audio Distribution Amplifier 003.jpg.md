@@ -1,5 +1,5 @@
 # 19xx - M8206 - Matrixing Audio Distribution Amplifier 003.jpg
-Wiki page: [M8206](../../../PAGES/M8206.md)
+Wiki page: [M8206](../../../../PAGES/M8206.md)
 
 
 - **Year:** unknown (unknown)
@@ -31,7 +31,7 @@ Wiki page: [M8206](../../../PAGES/M8206.md)
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M8206/19xx - M8206 - Matrixing Audio Distribution Amplifier 003.jpg",
+ "file": "Modules/AMPLIFIERS/M8206/PHOTOS/19xx - M8206 - Matrixing Audio Distribution Amplifier 003.jpg",
  "sha256": "ae9368c28180ec48b51d660e29567b18038b44c91f3caa8b3e62952df2fbddc4",
  "kind": "module",
  "models": [

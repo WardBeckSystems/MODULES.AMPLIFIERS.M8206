@@ -1,5 +1,5 @@
 # 19xx - M8206 - DOC - 8206 brochure b.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -58,7 +58,7 @@ Ward-Beck Systems Ltd. 841 Progress Avenue, Scarborough Ontario, Canada MIH 2X4 
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M8206/19xx - M8206 - DOC - 8206 brochure b.jpg",
+ "file": "Modules/AMPLIFIERS/M8206/MANUALS/19xx - M8206 - DOC - 8206 brochure b.jpg",
  "sha256": "919d116130feb9cd4ed44915ee63a3087fffcecc568b6d5a30b1ea7d94f7c50a",
  "kind": "doc",
  "models": [
