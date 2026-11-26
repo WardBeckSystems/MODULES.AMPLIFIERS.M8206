@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (346, 16)–(431, 39) mm: WARD-BECK   SYSTEMS · WBS · WBS D8212VU/5 · STEREO METERING AND · TEST PANEL
 - **Wiring (first pass):** 154 connected wire groups from 2,222 runs; labelled ends: 3301 mm → BL NEl; 442 mm → PI-9; 266 mm → T0 LAMPS; 54 mm → 8212-02-002; 32 mm → METER, PI-9
 
-Every curve, box, word and wire group: [19xx - M8206 - DOC - 8212-02-002 - TEST LEVEL RIGHT RICHT SHADOW (traced).json](../SCHEMATICS/19xx%20-%20M8206%20-%20DOC%20-%208212-02-002%20-%20TEST%20LEVEL%20RIGHT%20RICHT%20SHADOW%20(traced).json) (the CAD file: `19xx - M8206 - DOC - 8212-02-002 - TEST LEVEL RIGHT RICHT SHADOW (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M8206 - DOC - 8212-02-002 - TEST LEVEL RIGHT RICHT SHADOW (traced).json](../SCHEMATICS/19xx%20-%20M8206%20-%20DOC%20-%208212-02-002%20-%20TEST%20LEVEL%20RIGHT%20RICHT%20SHADOW%20%28traced%29.json) (the CAD file: `19xx - M8206 - DOC - 8212-02-002 - TEST LEVEL RIGHT RICHT SHADOW (traced).dxf`).
 
 ## Full text
 
