@@ -1,6 +1,6 @@
 # M8206 Matrixing Audio Distribution Amplifier · Amplifiers
 
-Ward-Beck Systems M8206, 1989|22. Wiki page: [M8206 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M8206.html)
+Ward-Beck Systems M8206, 1989|22. Wiki page: [M8206 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M8206-Matrixing-Audio-Distribution-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

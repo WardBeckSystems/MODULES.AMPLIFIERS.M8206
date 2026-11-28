@@ -1,5 +1,5 @@
 # 19xx - M8206 - Matrixing Audio Distribution Amplifier 003.jpg
-Wiki page: [M8206](../../../../PAGES/M8206.md)
+Wiki page: [M8206](../)
 
 
 - **Year:** unknown (unknown)
